@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Azkaban" />
+        <module name="bigdata" />
+        <module name="bigdata_atgugui" />
+        <module name="dataloader" />
+        <module name="dw-canal" />
+        <module name="dw-chart" />
+        <module name="dw-common" />
+        <module name="dw-dw2es" />
+        <module name="dw-logger" />
+        <module name="dw-mock" />
+        <module name="dw-realtime" />
+        <module name="ETL" />
+        <module name="flink" />
+        <module name="FlinkExample" />
+        <module name="flume_interceptor" />
+        <module name="flumeKafka" />
+        <module name="hadoop02" />
+        <module name="hbase-coprocesser" />
+        <module name="hbase-mr" />
+        <module name="hbase-mr-1" />
+        <module name="hbase-mr-11" />
+        <module name="hbase-mysql-mr" />
+        <module name="hivefunction" />
+        <module name="HotItemAnalysis" />
+        <module name="JUC" />
+        <module name="kafka01" />
+        <module name="log_collector" />
+        <module name="loginFileCEP" />
+        <module name="MySQLSource" />
+        <module name="NetWork" />
+        <module name="OfflineRecommender" />
+        <module name="Recommended-system" />
+        <module name="Reduce" />
+        <module name="Scala" />
+        <module name="Scala_Arithmetic" />
+        <module name="SecondBigFactory" />
+        <module name="Spark" />
+        <module name="sparkmall-common" />
+        <module name="sparkmall-mock" />
+        <module name="sparkmall-offline" />
+        <module name="sparkmall-realtime" />
+        <module name="sparktrain" />
+        <module name="statisticsRecommender" />
+        <module name="study_atguigu" />
+        <module name="Test" />
+        <module name="youfanPortraitmain (2)" />
+        <module name="zookeeper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="a" target="1.5" />
+      <module name="AItem" target="1.8" />
+      <module name="Azkaban" target="1.8" />
+      <module name="bigdata" target="1.8" />
+      <module name="bigdata_atgugui" target="1.8" />
+      <module name="dataloader" target="1.8" />
+      <module name="dw-canal" target="1.8" />
+      <module name="dw-chart" target="1.8" />
+      <module name="dw-common" target="1.8" />
+      <module name="dw-dw2es" target="1.8" />
+      <module name="dw-logger" target="1.8" />
+      <module name="dw-mock" target="1.8" />
+      <module name="dw-realtime" target="1.8" />
+      <module name="ETL" target="1.8" />
+      <module name="flink" target="1.8" />
+      <module name="FlinkExample" target="1.8" />
+      <module name="flume" target="1.8" />
+      <module name="flume_interceptor" target="1.8" />
+      <module name="flumeKafka" target="1.8" />
+      <module name="gmall1018-dw" target="1.8" />
+      <module name="hadoop" target="1.8" />
+      <module name="hadoop02" target="1.8" />
+      <module name="hadoop1205" target="1.8" />
+      <module name="Hbase" target="1.8" />
+      <module name="hbase-coprocesser" target="1.8" />
+      <module name="hbase-mr" target="1.8" />
+      <module name="hbase-mr-1" target="1.8" />
+      <module name="hbase-mr-11" target="1.8" />
+      <module name="hbase-mysql-mr" target="1.8" />
+      <module name="hivefunction" target="1.8" />
+      <module name="HotItemAnalysis" target="1.8" />
+      <module name="JUC" target="1.8" />
+      <module name="JVM" target="1.8" />
+      <module name="Kafka" target="1.8" />
+      <module name="kafka01" target="1.8" />
+      <module name="log_collector" target="1.8" />
+      <module name="loginFileCEP" target="1.8" />
+      <module name="MySQLSource" target="1.8" />
+      <module name="NetWork" target="1.8" />
+      <module name="NumberPositions" target="1.8" />
+      <module name="OfflineRecommender" target="1.8" />
+      <module name="Project" target="1.8" />
+      <module name="Recommended-system" target="1.8" />
+      <module name="recommender" target="1.8" />
+      <module name="RecommendSystem" target="1.8" />
+      <module name="Reduce" target="1.8" />
+      <module name="Scala" target="1.8" />
+      <module name="Scala_Arithmetic" target="1.8" />
+      <module name="SecondBigFactory" target="1.8" />
+      <module name="Spark" target="1.8" />
+      <module name="sparkmall-181205" target="1.8" />
+      <module name="sparkmall-common" target="1.8" />
+      <module name="sparkmall-mock" target="1.8" />
+      <module name="sparkmall-offline" target="1.8" />
+      <module name="sparkmall-realtime" target="1.8" />
+      <module name="sparktrain" target="1.8" />
+      <module name="statisticsRecommender" target="1.8" />
+      <module name="Study" target="1.8" />
+      <module name="study_atguigu" target="1.8" />
+      <module name="Test" target="1.8" />
+      <module name="UserBehaviorAnalysis" target="1.8" />
+      <module name="youfanPortraitmain (1)" target="1.8" />
+      <module name="youfanPortraitmain (2)" target="1.8" />
+      <module name="zookeeper" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="youfanPortraitmain (2)" options="-Xlint:all -Xpkginfo:always" />
+    </option>
+  </component>
+</project>

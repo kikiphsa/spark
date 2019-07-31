@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bigdata_atgugui/hadoop/JVM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hadoop/JVM" vcs="Git" />
   </component>
 </project>

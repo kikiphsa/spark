@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_hadoop" default="compile.module.hadoop">
+  <dirname property="module.hadoop.basedir" file="/hadoop/module_hadoop.xml"/>
+  
+  <property name="module.jdk.home.hadoop" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.hadoop" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.hadoop" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.hadoop" value="-encoding UTF-8 -source 8 -target 1.8 ${compiler.args}"/>
+  
+  <property name="hadoop.output.dir" value="/hadoop/target/classes"/>
+  <property name="hadoop.testoutput.dir" value="/hadoop/target/test-classes"/>
+  
+  <path id="hadoop.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="hadoop.module.production.classpath">
+    <path refid="${module.jdk.classpath.hadoop}"/>
+  </path>
+  
+  <path id="hadoop.runtime.production.module.classpath">
+    <pathelement location="target/classes"/>
+  </path>
+  
+  <path id="hadoop.module.classpath">
+    <path refid="${module.jdk.classpath.hadoop}"/>
+    <pathelement location="target/classes"/>
+  </path>
+  
+  <path id="hadoop.runtime.module.classpath">
+    <pathelement location="${hadoop.testoutput.dir}"/>
+    <pathelement location="target/classes"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.hadoop">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.hadoop">
+    <patternset refid="excluded.from.module.hadoop"/>
+  </patternset>
+  
+  
+  <target name="compile.module.hadoop" depends="compile.module.hadoop.production,compile.module.hadoop.tests" description="Compile module hadoop"/>
+  
+  <target name="compile.module.hadoop.production" depends="register.custom.compilers" description="Compile module hadoop; production classes"/>
+  
+  <target name="compile.module.hadoop.tests" depends="register.custom.compilers,compile.module.hadoop.production" description="compile module hadoop; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.hadoop" description="cleanup module">
+    <delete dir="target/classes"/>
+    <delete dir="${hadoop.testoutput.dir}"/>
+  </target>
+</project>

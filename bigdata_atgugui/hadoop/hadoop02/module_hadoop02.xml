@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_hadoop02" default="compile.module.hadoop02">
+  <dirname property="module.hadoop02.basedir" file="${ant.file.module_hadoop02}"/>
+  
+  <property name="module.jdk.home.hadoop02" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.hadoop02" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.hadoop02" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.hadoop02" value="-encoding UTF-8 -source 8 -target 1.8 ${compiler.args}"/>
+  
+  <property name="hadoop02.output.dir" value="${module.hadoop02.basedir}/target/classes"/>
+  <property name="hadoop02.testoutput.dir" value="${module.hadoop02.basedir}/target/test-classes"/>
+  
+  <path id="hadoop02.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="hadoop02.module.production.classpath">
+    <path refid="${module.jdk.classpath.hadoop02}"/>
+    <fileset dir="${basedir}/../../../../Users/Administrator/Desktop/5.hadoop  40-49天 9月6号-9月19号/5.Hadoop/3.代码/day47-0710/mapreduce0710/lib">
+      <patternset refid="library.patterns"/>
+    </fileset>
+  </path>
+  
+  <path id="hadoop02.runtime.production.module.classpath">
+    <pathelement location="${hadoop02.output.dir}"/>
+    <fileset dir="${basedir}/../../../../Users/Administrator/Desktop/5.hadoop  40-49天 9月6号-9月19号/5.Hadoop/3.代码/day47-0710/mapreduce0710/lib">
+      <patternset refid="library.patterns"/>
+    </fileset>
+  </path>
+  
+  <path id="hadoop02.module.classpath">
+    <path refid="${module.jdk.classpath.hadoop02}"/>
+    <pathelement location="${hadoop02.output.dir}"/>
+    <fileset dir="${basedir}/../../../../Users/Administrator/Desktop/5.hadoop  40-49天 9月6号-9月19号/5.Hadoop/3.代码/day47-0710/mapreduce0710/lib">
+      <patternset refid="library.patterns"/>
+    </fileset>
+  </path>
+  
+  <path id="hadoop02.runtime.module.classpath">
+    <pathelement location="${hadoop02.testoutput.dir}"/>
+    <pathelement location="${hadoop02.output.dir}"/>
+    <fileset dir="${basedir}/../../../../Users/Administrator/Desktop/5.hadoop  40-49天 9月6号-9月19号/5.Hadoop/3.代码/day47-0710/mapreduce0710/lib">
+      <patternset refid="library.patterns"/>
+    </fileset>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.hadoop02">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.hadoop02">
+    <patternset refid="excluded.from.module.hadoop02"/>
+  </patternset>
+  
+  <path id="hadoop02.module.sourcepath">
+    <dirset dir="${module.hadoop02.basedir}">
+      <include name="src/main/java"/>
+      <include name="src/main/resources"/>
+    </dirset>
+  </path>
+  
+  <path id="hadoop02.module.test.sourcepath">
+    <dirset dir="${module.hadoop02.basedir}">
+      <include name="src/test/java"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.hadoop02" depends="compile.module.hadoop02.production,compile.module.hadoop02.tests" description="Compile module hadoop02"/>
+  
+  <target name="compile.module.hadoop02.production" depends="register.custom.compilers" description="Compile module hadoop02; production classes">
+    <mkdir dir="${hadoop02.output.dir}"/>
+    <javac2 destdir="${hadoop02.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.hadoop02}/javac">
+      <compilerarg line="${compiler.args.hadoop02}"/>
+      <bootclasspath refid="hadoop02.module.bootclasspath"/>
+      <classpath refid="hadoop02.module.production.classpath"/>
+      <src refid="hadoop02.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.hadoop02"/>
+    </javac2>
+    
+    <copy todir="${hadoop02.output.dir}">
+      <fileset dir="${module.hadoop02.basedir}/src/main/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.hadoop02.basedir}/src/main/resources">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.hadoop02.tests" depends="register.custom.compilers,compile.module.hadoop02.production" description="compile module hadoop02; test classes" unless="skip.tests">
+    <mkdir dir="${hadoop02.testoutput.dir}"/>
+    <javac2 destdir="${hadoop02.testoutput.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.hadoop02}/javac">
+      <compilerarg line="${compiler.args.hadoop02}"/>
+      <bootclasspath refid="hadoop02.module.bootclasspath"/>
+      <classpath refid="hadoop02.module.classpath"/>
+      <src refid="hadoop02.module.test.sourcepath"/>
+      <patternset refid="excluded.from.compilation.hadoop02"/>
+    </javac2>
+    
+    <copy todir="${hadoop02.testoutput.dir}">
+      <fileset dir="${module.hadoop02.basedir}/src/test/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="clean.module.hadoop02" description="cleanup module">
+    <delete dir="${hadoop02.output.dir}"/>
+    <delete dir="${hadoop02.testoutput.dir}"/>
+  </target>
+</project>
