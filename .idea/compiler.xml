@@ -30,15 +30,11 @@
         <module name="hbase-mysql-mr" />
         <module name="hivefunction" />
         <module name="HotItemAnalysis" />
-        <module name="JUC" />
-        <module name="kafka01" />
         <module name="log_collector" />
         <module name="loginFileCEP" />
-        <module name="MySQLSource" />
         <module name="NetWork" />
         <module name="OfflineRecommender" />
         <module name="Recommended-system" />
-        <module name="Reduce" />
         <module name="Scala" />
         <module name="Scala_Arithmetic" />
         <module name="SecondBigFactory" />
@@ -56,7 +52,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="a" target="1.5" />
       <module name="AItem" target="1.8" />
       <module name="Azkaban" target="1.8" />
       <module name="bigdata" target="1.8" />
@@ -87,8 +82,6 @@
       <module name="hbase-mysql-mr" target="1.8" />
       <module name="hivefunction" target="1.8" />
       <module name="HotItemAnalysis" target="1.8" />
-      <module name="JUC" target="1.8" />
-      <module name="JVM" target="1.8" />
       <module name="Kafka" target="1.8" />
       <module name="kafka01" target="1.8" />
       <module name="log_collector" target="1.8" />

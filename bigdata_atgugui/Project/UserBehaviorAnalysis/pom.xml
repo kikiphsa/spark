@@ -19,7 +19,6 @@
         <module>HotItemAnalysis</module>
         <module>NetWork</module>
         <module>loginFileCEP</module>
-        <module>OutTime</module>
     </modules>
 
     <!-- <properties>

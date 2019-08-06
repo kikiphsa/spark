@@ -2,23 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-pulisher/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-pulisher/.mvn/.mvn.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/AItem/AItem.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/AItem.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/Azkaban/Azkaban.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Azkaban/Azkaban.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/ETL/ETL.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/ETL/ETL.iml" />
       <module fileurl="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/FlinkExample.iml" filepath="$PROJECT_DIR$/study_atguigu/Study/FlinkExample/FlinkExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/Hbase.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/Hbase.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/HotItemAnalysis/HotItemAnalysis.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/HotItemAnalysis/HotItemAnalysis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/JVM/JUC/JUC.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/JVM/JUC/JUC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/JVM/JVM.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/JVM/JVM.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/Kafka.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/Kafka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/flume/MySQLSource/MySQLSource.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flume/MySQLSource/MySQLSource.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/NetWork/NetWork.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/NetWork/NetWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/NumberPositions.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/NumberPositions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/recommender/OfflineRecommender/OfflineRecommender.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/recommender/OfflineRecommender/OfflineRecommender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/Project.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/RecommendSystem.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/RecommendSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/AItem/Recommended-system/Recommended-system.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/Recommended-system/Recommended-system.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop1205/Reduce/Reduce.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop1205/Reduce/Reduce.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/Scala/Scala.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Scala/Scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/Scala_Arithmetic/Scala_Arithmetic.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/Scala_Arithmetic/Scala_Arithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/SecondBigFactory/SecondBigFactory.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/SecondBigFactory/SecondBigFactory.iml" />
@@ -28,7 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/UserBehaviorAnalysis.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/UserBehaviorAnalysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/bigdata/bigdata.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/bigdata/bigdata.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/bigdata_atgugui.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/bigdata_atgugui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/recommender/dataloader/dataloader.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/recommender/dataloader/dataloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/dataloader/dataloader.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/dataloader/dataloader.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-canal/dw-canal.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-canal/dw-canal.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-chart/dw-chart.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-chart/dw-chart.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-common/dw-common.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-common/dw-common.iml" />
@@ -50,10 +47,8 @@
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mr-11/hbase-mr-11.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mr-11/hbase-mr-11.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mysql-mr/hbase-mysql-mr.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mysql-mr/hbase-mysql-mr.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/hivefunction/hivefunction.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/hivefunction/hivefunction.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/kafka01/kafka01.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/kafka01/kafka01.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/log_collector.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/log_collector.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/loginFileCEP/loginFileCEP.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/loginFileCEP/loginFileCEP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/recommender/recommender.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/recommender/recommender.iml" />
       <module fileurl="file://$PROJECT_DIR$/spark.iml" filepath="$PROJECT_DIR$/spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-181205.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-181205.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-common/sparkmall-common.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-common/sparkmall-common.iml" />
@@ -61,8 +56,9 @@
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-offline/sparkmall-offline.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-offline/sparkmall-offline.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-realtime/sparkmall-realtime.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-realtime/sparkmall-realtime.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/AItem/sparktrain/sparktrain.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/sparktrain/sparktrain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/recommender/statisticsRecommender/statisticsRecommender.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/recommender/statisticsRecommender/statisticsRecommender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/statisticsRecommender/statisticsRecommender.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/statisticsRecommender/statisticsRecommender.iml" />
       <module fileurl="file://$PROJECT_DIR$/study_atguigu/study_atguigu.iml" filepath="$PROJECT_DIR$/study_atguigu/study_atguigu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-pulisher/src/test/test.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-pulisher/src/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/youfanPortraitmain/youfanPortraitmain (1).iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/youfanPortraitmain/youfanPortraitmain (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/youfanPortraitmain/youfananalySrv/youfanPortraitmain (2).iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/youfanPortraitmain/youfananalySrv/youfanPortraitmain (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/zookeeper/zookeeper.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/zookeeper/zookeeper.iml" />

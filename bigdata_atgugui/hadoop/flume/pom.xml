@@ -11,9 +11,7 @@
 
     <artifactId>flume</artifactId>
     <packaging>pom</packaging>
-    <modules>
-        <module>MySQLSource</module>
-    </modules>
+
     <dependencies>
         <dependency>
             <groupId>org.apache.flume</groupId>
