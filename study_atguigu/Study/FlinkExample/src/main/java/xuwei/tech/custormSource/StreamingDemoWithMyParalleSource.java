@@ -7,8 +7,8 @@ public class StreamingDemoWithMyParalleSource {
     public static void main(String[] args) {
         StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
 
-        env.addSource(new )
-
-        env.execute();
+//        env.addSource(new )
+//
+//        env.execute();
     }
 }
