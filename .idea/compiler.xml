@@ -39,6 +39,7 @@
         <module name="Scala_Arithmetic" />
         <module name="SecondBigFactory" />
         <module name="Spark" />
+        <module name="spark" />
         <module name="sparkmall-common" />
         <module name="sparkmall-mock" />
         <module name="sparkmall-offline" />
@@ -98,6 +99,7 @@
       <module name="Scala" target="1.8" />
       <module name="Scala_Arithmetic" target="1.8" />
       <module name="SecondBigFactory" target="1.8" />
+      <module name="spark" target="1.8" />
       <module name="Spark" target="1.8" />
       <module name="sparkmall-181205" target="1.8" />
       <module name="sparkmall-common" target="1.8" />
