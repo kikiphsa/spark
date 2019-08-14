@@ -58,20 +58,20 @@
       <module name="bigdata" target="1.8" />
       <module name="bigdata_atgugui" target="1.8" />
       <module name="dataloader" target="1.8" />
-      <module name="dw-canal" target="1.8" />
-      <module name="dw-chart" target="1.8" />
-      <module name="dw-common" target="1.8" />
-      <module name="dw-dw2es" target="1.8" />
-      <module name="dw-logger" target="1.8" />
-      <module name="dw-mock" target="1.8" />
-      <module name="dw-realtime" target="1.8" />
+      <module name="dw-canal" target="1.6" />
+      <module name="dw-chart" target="1.6" />
+      <module name="dw-common" target="1.6" />
+      <module name="dw-dw2es" target="1.6" />
+      <module name="dw-logger" target="1.6" />
+      <module name="dw-mock" target="1.6" />
+      <module name="dw-realtime" target="1.6" />
       <module name="ETL" target="1.8" />
       <module name="flink" target="1.8" />
       <module name="FlinkExample" target="1.8" />
       <module name="flume" target="1.8" />
       <module name="flume_interceptor" target="1.8" />
       <module name="flumeKafka" target="1.8" />
-      <module name="gmall1018-dw" target="1.8" />
+      <module name="gmall1018-dw" target="1.6" />
       <module name="hadoop" target="1.8" />
       <module name="hadoop02" target="1.8" />
       <module name="hadoop1205" target="1.8" />
@@ -92,6 +92,8 @@
       <module name="NumberPositions" target="1.8" />
       <module name="OfflineRecommender" target="1.8" />
       <module name="Project" target="1.8" />
+      <module name="Project (1)" target="1.8" />
+      <module name="Project (2)" target="1.8" />
       <module name="Recommended-system" target="1.8" />
       <module name="recommender" target="1.8" />
       <module name="RecommendSystem" target="1.8" />
@@ -119,7 +121,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="youfanPortraitmain (2)" options="-Xlint:all -Xpkginfo:always" />
+      <module name="youfanPortraitmain (2)" options="" />
     </option>
   </component>
 </project>
