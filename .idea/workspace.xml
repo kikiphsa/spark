@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b6a3f67-8f53-4f01-989b-ba60c4027c4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_atguigu/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/study_atguigu/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/JVM" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/bigdata_atgugui/hadoop/flume/MySQLSource/target/" />
@@ -92,9 +89,10 @@
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -162,7 +160,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/scala/xuwei/tech/streaming/StreamPartition.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
+            <state relative-caret-position="285">
               <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding>
                 <element signature="e#30#100#0" expanded="true" />
@@ -219,8 +217,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bigdata_atgugui/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="181">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -348,8 +346,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="403" />
-    <option name="y" value="-5" />
+    <option name="x" value="402" />
+    <option name="y" value="-6" />
     <option name="width" value="1005" />
     <option name="height" value="1068" />
   </component>
@@ -374,14 +372,26 @@
             <path>
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkmall-181205" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -393,12 +403,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565688526452" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565688542107" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spark.iml" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -534,7 +546,8 @@
       <workItem from="1565052218898" duration="3645000" />
       <workItem from="1565095926350" duration="591000" />
       <workItem from="1565416150289" duration="9992000" />
-      <workItem from="1565688217145" duration="308000" />
+      <workItem from="1565688217145" duration="660000" />
+      <workItem from="1565742592274" duration="422000" />
     </task>
     <task id="LOCAL-00001" summary="修改后的">
       <created>1565052477342</created>
@@ -550,17 +563,23 @@
       <option name="project" value="LOCAL" />
       <updated>1565688352263</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改后的">
+      <created>1565688550584</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565688550584</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25428000" />
+    <option name="totallyTimeSpent" value="26202000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.35084882" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.3565077" />
       <window_info id="Structure" order="1" sideWeight="0.50174826" side_tool="true" weight="0.2497979" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -836,9 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="489">
           <caret line="27" column="62" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -877,9 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="18" column="41" selection-start-line="8" selection-start-column="4" selection-end-line="24" selection-end-column="21" />
-          <folding>
-            <element signature="e#30#100#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -890,6 +903,30 @@
           <folding>
             <element signature="e#30#54#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/scala/xuwei/tech/streaming/StreamPartition.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="e#30#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_atguigu/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -928,34 +965,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/scala/xuwei/tech/streaming/StreamPartition.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="e#30#100#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study_atguigu/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bigdata_atgugui/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="181">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
