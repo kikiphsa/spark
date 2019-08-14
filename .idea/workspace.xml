@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b6a3f67-8f53-4f01-989b-ba60c4027c4d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/JVM" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/bigdata_atgugui/hadoop/flume/MySQLSource/target/" />
@@ -410,7 +409,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565688542107" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565744226533" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spark.iml" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -547,7 +546,7 @@
       <workItem from="1565095926350" duration="591000" />
       <workItem from="1565416150289" duration="9992000" />
       <workItem from="1565688217145" duration="660000" />
-      <workItem from="1565742592274" duration="422000" />
+      <workItem from="1565742592274" duration="1033000" />
     </task>
     <task id="LOCAL-00001" summary="修改后的">
       <created>1565052477342</created>
@@ -570,11 +569,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565688550584</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="修改后的">
+      <created>1565743031454</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565743031454</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26202000" />
+    <option name="totallyTimeSpent" value="26813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
