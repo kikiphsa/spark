@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Maven 1" modules="FlinkExample,sparkmall-mock,sparkmall-common,sparkmall-offline,sparkmall-realtime" />
+    <profile name="Maven 1" modules="sparkmall-mock,sparkmall-common,sparkmall-offline,sparkmall-realtime,FlinkExample" />
     <profile name="Maven 2" modules="sparktrain">
       <parameters>
         <parameter value="-target:jvm-1.5" />

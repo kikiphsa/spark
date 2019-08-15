@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/FlinkExample.iml" filepath="$PROJECT_DIR$/study_atguigu/Study/FlinkExample/FlinkExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/Hbase.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/Hbase.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/HotItemAnalysis/HotItemAnalysis.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/HotItemAnalysis/HotItemAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_atguigu/Study/JavaSuanfa/JavaSuanfa.iml" filepath="$PROJECT_DIR$/study_atguigu/Study/JavaSuanfa/JavaSuanfa.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/Kafka.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/Kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/NetWork/NetWork.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/NetWork/NetWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" />
@@ -50,10 +51,6 @@
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/loginFileCEP/loginFileCEP.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/loginFileCEP/loginFileCEP.iml" />
       <module fileurl="file://$PROJECT_DIR$/spark.iml" filepath="$PROJECT_DIR$/spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-181205.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-181205.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-common/sparkmall-common.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-common/sparkmall-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-mock/sparkmall-mock.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-mock/sparkmall-mock.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-offline/sparkmall-offline.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-offline/sparkmall-offline.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-realtime/sparkmall-realtime.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-realtime/sparkmall-realtime.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/AItem/sparktrain/sparktrain.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/sparktrain/sparktrain.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/statisticsRecommender/statisticsRecommender.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/statisticsRecommender/statisticsRecommender.iml" />
       <module fileurl="file://$PROJECT_DIR$/study_atguigu/study_atguigu.iml" filepath="$PROJECT_DIR$/study_atguigu/study_atguigu.iml" />

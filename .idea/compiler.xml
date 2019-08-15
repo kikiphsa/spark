@@ -30,6 +30,7 @@
         <module name="hbase-mysql-mr" />
         <module name="hivefunction" />
         <module name="HotItemAnalysis" />
+        <module name="JavaSuanfa" />
         <module name="log_collector" />
         <module name="loginFileCEP" />
         <module name="NetWork" />
@@ -40,10 +41,6 @@
         <module name="SecondBigFactory" />
         <module name="Spark" />
         <module name="spark" />
-        <module name="sparkmall-common" />
-        <module name="sparkmall-mock" />
-        <module name="sparkmall-offline" />
-        <module name="sparkmall-realtime" />
         <module name="sparktrain" />
         <module name="statisticsRecommender" />
         <module name="study_atguigu" />
@@ -58,20 +55,20 @@
       <module name="bigdata" target="1.8" />
       <module name="bigdata_atgugui" target="1.8" />
       <module name="dataloader" target="1.8" />
-      <module name="dw-canal" target="1.6" />
-      <module name="dw-chart" target="1.6" />
-      <module name="dw-common" target="1.6" />
-      <module name="dw-dw2es" target="1.6" />
-      <module name="dw-logger" target="1.6" />
-      <module name="dw-mock" target="1.6" />
-      <module name="dw-realtime" target="1.6" />
+      <module name="dw-canal" target="1.8" />
+      <module name="dw-chart" target="1.8" />
+      <module name="dw-common" target="1.8" />
+      <module name="dw-dw2es" target="1.8" />
+      <module name="dw-logger" target="1.8" />
+      <module name="dw-mock" target="1.8" />
+      <module name="dw-realtime" target="1.8" />
       <module name="ETL" target="1.8" />
       <module name="flink" target="1.8" />
       <module name="FlinkExample" target="1.8" />
       <module name="flume" target="1.8" />
       <module name="flume_interceptor" target="1.8" />
       <module name="flumeKafka" target="1.8" />
-      <module name="gmall1018-dw" target="1.6" />
+      <module name="gmall1018-dw" target="1.8" />
       <module name="hadoop" target="1.8" />
       <module name="hadoop02" target="1.8" />
       <module name="hadoop1205" target="1.8" />
@@ -83,6 +80,7 @@
       <module name="hbase-mysql-mr" target="1.8" />
       <module name="hivefunction" target="1.8" />
       <module name="HotItemAnalysis" target="1.8" />
+      <module name="JavaSuanfa" target="1.8" />
       <module name="Kafka" target="1.8" />
       <module name="kafka01" target="1.8" />
       <module name="log_collector" target="1.8" />

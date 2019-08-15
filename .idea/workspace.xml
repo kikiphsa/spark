@@ -2,61 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b6a3f67-8f53-4f01-989b-ba60c4027c4d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/AItem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/AItem.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/Recommended-system/Recommended-system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/Recommended-system/Recommended-system.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/flume_interceptor/flume_interceptor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/flume_interceptor/flume_interceptor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/hivefunction/hivefunction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/hivefunction/hivefunction.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/log_collector.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/log_collector.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/RecommendSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/RecommendSystem.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/dataloader/dataloader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/dataloader/dataloader.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/statisticsRecommender/statisticsRecommender.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/statisticsRecommender/statisticsRecommender.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/Scala_Arithmetic/Scala_Arithmetic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/Scala_Arithmetic/Scala_Arithmetic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/SecondBigFactory/SecondBigFactory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/SecondBigFactory/SecondBigFactory.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/HotItemAnalysis/HotItemAnalysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/HotItemAnalysis/HotItemAnalysis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/NetWork/NetWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/NetWork/NetWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/UserBehaviorAnalysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/UserBehaviorAnalysis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/loginFileCEP/loginFileCEP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/loginFileCEP/loginFileCEP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/bigdata/bigdata.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/bigdata/bigdata.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-canal/dw-canal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-canal/dw-canal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-common/dw-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-common/dw-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-dw2es/dw-dw2es.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-dw2es/dw-dw2es.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-logger/dw-logger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-logger/dw-logger.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-mock/dw-mock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-mock/dw-mock.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-realtime/dw-realtime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-realtime/dw-realtime.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/gmall1018-dw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/gmall1018-dw.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-181205.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-181205.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-common/sparkmall-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-common/sparkmall-common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-mock/sparkmall-mock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-mock/sparkmall-mock.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-offline/sparkmall-offline.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-offline/sparkmall-offline.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-realtime/sparkmall-realtime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-realtime/sparkmall-realtime.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/youfanPortraitmain/youfanPortraitmain (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/sparktrain/sparktrain.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/youfanPortraitmain/youfananalySrv/youfanPortraitmain (2).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/bigdata_atgugui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/bigdata_atgugui.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Azkaban/Azkaban.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Azkaban/Azkaban.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/ETL/ETL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/ETL/ETL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/Hbase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/Hbase.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-coprocesser/hbase-coprocesser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-coprocesser/hbase-coprocesser.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mr-1/hbase-mr-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mr-1/hbase-mr-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mr-11/hbase-mr-11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mr-11/hbase-mr-11.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mr/hbase-mr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mr/hbase-mr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mysql-mr/hbase-mysql-mr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mysql-mr/hbase-mysql-mr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/Kafka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/Kafka.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/flumeKafka/flumeKafka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/flumeKafka/flumeKafka.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Scala/Scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Scala/Scala.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Spark/Spark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Spark/Spark.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Test/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flink/flink.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flink/flink.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flume/flume.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flume/flume.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop02/hadoop02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop02/hadoop02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop1205/hadoop1205.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop1205/hadoop1205.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/zookeeper/zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/zookeeper/zookeeper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spark.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_atguigu/Study/FlinkExample/FlinkExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/study_atguigu/Study/FlinkExample/FlinkExample.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_atguigu/Study/Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/study_atguigu/Study/Study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_atguigu/study_atguigu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/study_atguigu/study_atguigu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/AItem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/Recommended-system/Recommended-system.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/sparktrain/sparktrain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/flume_interceptor/flume_interceptor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/hivefunction/hivefunction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/log_collector.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/RecommendSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/dataloader/dataloader.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/statisticsRecommender/statisticsRecommender.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/Scala_Arithmetic/Scala_Arithmetic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/SecondBigFactory/SecondBigFactory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/HotItemAnalysis/HotItemAnalysis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/NetWork/NetWork.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/UserBehaviorAnalysis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/loginFileCEP/loginFileCEP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/bigdata/bigdata.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-canal/dw-canal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-common/dw-common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-dw2es/dw-dw2es.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-logger/dw-logger.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-mock/dw-mock.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-realtime/dw-realtime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/gmall1018-dw.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-181205.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-common/sparkmall-common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-mock/sparkmall-mock.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-offline/sparkmall-offline.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-realtime/sparkmall-realtime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/bigdata_atgugui.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Azkaban/Azkaban.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/ETL/ETL.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/Hbase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-coprocesser/hbase-coprocesser.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mr-11/hbase-mr-11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mr/hbase-mr.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mysql-mr/hbase-mysql-mr.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/Kafka.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/flumeKafka/flumeKafka.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Scala/Scala.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Spark/Spark.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Test/Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flink/flink.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flume/flume.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop02/hadoop02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop1205/hadoop1205.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/zookeeper/zookeeper.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/HotItemAnalysis/target/" />
     <ignored path="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/loginFileCEP/target/" />
@@ -116,8 +115,7 @@
     <ignored path="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/flume_interceptor/target/" />
     <ignored path="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mr-1/target/" />
     <ignored path="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/statisticsRecommender/target/" />
-    <ignored path="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/dataloader/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/study_atguigu/Study/JavaSuanfa/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,63 +184,49 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1657559074">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="3" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="69" />
+          <entry key="txt" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="69" />
+          <entry key="PLAIN_TEXT" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="spark" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/scala/xuwei/tech/streaming/StreamSplit.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#30#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/scala/xuwei/tech/streaming/StreamPartition.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-              <folding>
-                <element signature="e#30#100#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="8" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_atguigu/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/scala/xuwei/tech/streaming/PartitionSource.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -261,11 +245,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bigdata_atgugui/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
+            <state relative-caret-position="190">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spark.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/java/xuwei/tech/custormSource/MyNoParalleSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="56" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study_atguigu/Study/JavaSuanfa/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/study_atguigu/Study/JavaSuanfa/src/main/java/com/atguigu/queue/ArrayQueueDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/java/xuwei/tech/custormSource/MyPalallerSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -294,8 +315,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="CSS File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -363,6 +384,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/study_atguigu/pom.xml" />
         <option value="$PROJECT_DIR$/bigdata_atgugui/pom.xml" />
+        <option value="$PROJECT_DIR$/study_atguigu/Study/JavaSuanfa/src/main/java/com/atguigu/queue/ArrayQueueDemo.java" />
       </list>
     </option>
   </component>
@@ -376,7 +398,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="C:\D\JAVA\APP\Maven\repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../APP/apache-maven-3.2.2" />
+        <option name="mavenHome" value="D:/../APP/apache-maven-3.2.2" />
         <option name="userSettingsFile" value="C:\D\JAVA\APP\apache-maven-3.2.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -393,12 +415,14 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="402" />
-    <option name="y" value="-6" />
-    <option name="width" value="1005" />
-    <option name="height" value="1068" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1065" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -414,26 +438,70 @@
             <path>
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSuanfa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkmall-181205" type="462c0819:PsiDirectoryNode" />
+              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSuanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSuanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSuanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSuanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSuanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -450,14 +518,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565688542107" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565786416756" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spark.iml" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -595,6 +663,9 @@
       <workItem from="1565416150289" duration="9992000" />
       <workItem from="1565688217145" duration="660000" />
       <workItem from="1565742592274" duration="422000" />
+      <workItem from="1565783646525" duration="849000" />
+      <workItem from="1565784695661" duration="1401000" />
+      <workItem from="1565830579992" duration="629000" />
     </task>
     <task id="LOCAL-00001" summary="修改后的">
       <created>1565052477342</created>
@@ -617,16 +688,24 @@
       <option name="project" value="LOCAL" />
       <updated>1565688550584</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加java算法">
+      <created>1565786341364</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565786341364</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26202000" />
+    <option name="totallyTimeSpent" value="29081000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1065" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.3565077" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.3683369" />
       <window_info id="Structure" order="1" sideWeight="0.50174826" side_tool="true" weight="0.2497979" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -651,6 +730,12 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,15 +746,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
+    <MESSAGE value="增加java算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加java算法" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/java/xuwei/tech/custormSource/MyRichParalleSource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -677,34 +757,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../APP/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/functions/source/RichParallelSourceFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../APP/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/functions/source/ParallelSourceFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="35" column="59" lean-forward="true" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../APP/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/functions/source/SourceFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="101" column="41" lean-forward="true" selection-start-line="101" selection-start-column="41" selection-end-line="101" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/java/xuwei/tech/custormSource/MyPalallerSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/../APP/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/functions/source/RichParallelSourceFunction.java" />
+    <entry file="jar://D:/../APP/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/functions/source/ParallelSourceFunction.java" />
+    <entry file="jar://D:/../APP/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/functions/source/SourceFunction.java" />
     <entry file="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -774,13 +829,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../APP/Maven/repository/org/apache/flink/flink-core/1.7.0/flink-core-1.7.0-sources.jar!/org/apache/flink/api/common/functions/MapFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/../APP/Maven/repository/org/apache/flink/flink-core/1.7.0/flink-core-1.7.0-sources.jar!/org/apache/flink/api/common/functions/MapFunction.java" />
     <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -802,20 +851,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../APP/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/functions/co/CoMapFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../APP/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/datastream/DataStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="211" column="33" selection-start-line="211" selection-start-column="33" selection-end-line="211" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/../APP/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/functions/co/CoMapFunction.java" />
+    <entry file="jar://D:/../APP/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/datastream/DataStream.java" />
     <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/scala/xuwei/tech/streaming/StreamUnion.java" />
     <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/java/xuwei/tech/streamAPI/StreamingDemoConnect.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -831,27 +868,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/java/xuwei/tech/custormSource/MyNoParalleSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="4" column="56" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../APP/Maven/repository/org/apache/flink/flink-streaming-scala_2.11/1.7.0/flink-streaming-scala_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/scala/DataStream.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="924" column="6" selection-start-line="924" selection-start-column="6" selection-end-line="924" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/../APP/Maven/repository/org/apache/flink/flink-streaming-scala_2.11/1.7.0/flink-streaming-scala_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/scala/DataStream.scala" />
     <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/scala/xuwei/tech/streaming/StreamUnion.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="10" />
-          <folding>
-            <element signature="e#30#100#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -866,9 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#30#54#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -876,9 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="e#30#100#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -917,6 +932,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/java/xuwei/tech/custormSource/MyNoParalleSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_atguigu/Study/JavaSuanfa/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/java/xuwei/tech/custormSource/MyPalallerSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/scala/xuwei/tech/custormSource/MyParallelSourceScala.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -931,10 +973,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/pom.xml">
+    <entry file="file://$PROJECT_DIR$/study_atguigu/Study/JavaSuanfa/src/main/java/com/atguigu/queue/ArrayQueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
