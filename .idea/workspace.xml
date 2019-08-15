@@ -2,60 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b6a3f67-8f53-4f01-989b-ba60c4027c4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/youfanPortraitmain/youfanPortraitmain (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/youfanPortraitmain/youfananalySrv/youfanPortraitmain (2).iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/AItem.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/Recommended-system/Recommended-system.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/sparktrain/sparktrain.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/flume_interceptor/flume_interceptor.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/hivefunction/hivefunction.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/log_collector.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/RecommendSystem.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/dataloader/dataloader.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/statisticsRecommender/statisticsRecommender.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/Scala_Arithmetic/Scala_Arithmetic.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/SecondBigFactory/SecondBigFactory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/HotItemAnalysis/HotItemAnalysis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/NetWork/NetWork.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/UserBehaviorAnalysis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/loginFileCEP/loginFileCEP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/bigdata/bigdata.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-canal/dw-canal.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-common/dw-common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-dw2es/dw-dw2es.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-logger/dw-logger.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-mock/dw-mock.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-realtime/dw-realtime.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/gmall1018-dw.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-181205.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-common/sparkmall-common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-mock/sparkmall-mock.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-offline/sparkmall-offline.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/sparkmall-181205/sparkmall-realtime/sparkmall-realtime.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/bigdata_atgugui.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Azkaban/Azkaban.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/ETL/ETL.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/Hbase.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-coprocesser/hbase-coprocesser.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mr-11/hbase-mr-11.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mr/hbase-mr.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/hbase-mysql-mr/hbase-mysql-mr.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/Kafka.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/flumeKafka/flumeKafka.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Scala/Scala.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Spark/Spark.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Test/Test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flink/flink.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flume/flume.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop02/hadoop02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop1205/hadoop1205.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/zookeeper/zookeeper.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/flume_interceptor/src/main/main24.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/hivefunction/src/main/main18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/src/main/main38.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/RecommendSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/RecommendSystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-canal/dw-canal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-canal/dw-canal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-canal/src/main/main3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-common/dw-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-common/dw-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-common/src/main/main31.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-dw2es/dw-dw2es.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-dw2es/dw-dw2es.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-logger/dw-logger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-logger/dw-logger.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-mock/dw-mock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-mock/dw-mock.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-realtime/dw-realtime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-realtime/dw-realtime.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/gmall1018-dw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/gmall1018-dw.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Azkaban/Azkaban.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Azkaban/Azkaban.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/ETL/ETL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/ETL/ETL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/Hbase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Hbase/Hbase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Scala/Scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Scala/Scala.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Spark/Spark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Spark/Spark.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Test/Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flink/flink.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flink/flink.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flume/flume.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flume/flume.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop02/hadoop02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop02/hadoop02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop1205/hadoop1205.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/hadoop1205/hadoop1205.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigdata_atgugui/hadoop/zookeeper/zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigdata_atgugui/hadoop/zookeeper/zookeeper.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/HotItemAnalysis/target/" />
     <ignored path="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/loginFileCEP/target/" />
@@ -196,16 +173,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="3" />
-          <entry key="xml" value="1" />
+          <entry key="iml" value="5" />
+          <entry key="java" value="10" />
+          <entry key="scala" value="1" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="3" />
-          <entry key="XML" value="1" />
+          <entry key="IDEA_MODULE" value="5" />
+          <entry key="JAVA" value="10" />
+          <entry key="Scala" value="1" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -237,76 +216,76 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bigdata_atgugui/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spark.iml">
+        <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/flume_interceptor/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/java/xuwei/tech/custormSource/MyNoParalleSource.java">
+        <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/hivefunction/src/main/java/com/youfan/udf/BaseFieldUDF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="56" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="56" />
+            <state relative-caret-position="494">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_atguigu/Study/JavaSuanfa/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/src/main/java/com/youfan/appclient/AppActive_background.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/src/main/java/com/youfan/appclient/AppActive_foreground.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/src/main/java/com/youfan/appclient/AppAd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/src/main/java/com/youfan/appclient/AppComment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/study_atguigu/Study/JavaSuanfa/src/main/java/com/atguigu/queue/ArrayQueueDemo.java">
+        <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/src/main/java/com/youfan/appclient/AppStart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="684">
+              <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/java/xuwei/tech/custormSource/MyPalallerSource.java">
+        <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/hivefunction/src/main/java/com/youfan/udtf/EventJsonUDTF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="817">
+              <caret line="55" column="52" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/scala/xuwei/tech/custormSource/MyParallelSourceScala.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="36" selection-start-line="27" selection-start-column="11" selection-end-line="29" selection-end-column="36" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/Project.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -438,44 +417,157 @@
             <path>
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSuanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="AItem" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSuanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall1018-dw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall1018-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-chart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall1018-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-chart" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSuanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall1018-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-chart" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSuanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall1018-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-chart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall1018-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-chart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall1018-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall1018-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall1018-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall1018-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="NumberPositions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="NumberPositions" type="462c0819:PsiDirectoryNode" />
+              <item name="hivefunction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="NumberPositions" type="462c0819:PsiDirectoryNode" />
+              <item name="hivefunction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="NumberPositions" type="462c0819:PsiDirectoryNode" />
+              <item name="hivefunction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="NumberPositions" type="462c0819:PsiDirectoryNode" />
+              <item name="hivefunction" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -483,25 +575,40 @@
             <path>
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSuanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="NumberPositions" type="462c0819:PsiDirectoryNode" />
+              <item name="hivefunction" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="youfan" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spark" type="b2602c69:ProjectViewProjectNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
-              <item name="study_atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSuanfa" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="NumberPositions" type="462c0819:PsiDirectoryNode" />
+              <item name="hivefunction" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="queue" type="462c0819:PsiDirectoryNode" />
+              <item name="youfan" type="462c0819:PsiDirectoryNode" />
+              <item name="udf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spark" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdata_atgugui" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="NumberPositions" type="462c0819:PsiDirectoryNode" />
+              <item name="hivefunction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="youfan" type="462c0819:PsiDirectoryNode" />
+              <item name="udtf" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -525,7 +632,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565786416756" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565856386592" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spark.iml" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -625,6 +732,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DwPulisherApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dw-publisher" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youfan.gmall1018.dw.pulisher.DwPulisherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.DwLoggerApplication" />
       <item itemvalue="Application.StreamingDemoConnect" />
@@ -632,6 +746,7 @@
       <item itemvalue="Application.StreamConnect" />
       <item itemvalue="Application.StreamSplit" />
       <item itemvalue="Application.StreamPartition" />
+      <item itemvalue="Spring Boot.DwPulisherApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -665,7 +780,7 @@
       <workItem from="1565742592274" duration="422000" />
       <workItem from="1565783646525" duration="849000" />
       <workItem from="1565784695661" duration="1401000" />
-      <workItem from="1565830579992" duration="629000" />
+      <workItem from="1565830579992" duration="1148000" />
     </task>
     <task id="LOCAL-00001" summary="修改后的">
       <created>1565052477342</created>
@@ -695,15 +810,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565786341364</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="增加java算法">
+      <created>1565855916421</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565855916421</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29081000" />
+    <option name="totallyTimeSpent" value="29600000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1065" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1065" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.3683369" />
       <window_info id="Structure" order="1" sideWeight="0.50174826" side_tool="true" weight="0.2497979" />
@@ -732,7 +853,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32995737" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -750,24 +871,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="增加java算法" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/study_atguigu/Study/FlinkExample/src/main/java/xuwei/tech/custormSource/MyRichParalleSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/../APP/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/functions/source/RichParallelSourceFunction.java" />
-    <entry file="jar://D:/../APP/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/functions/source/ParallelSourceFunction.java" />
-    <entry file="jar://D:/../APP/Maven/repository/org/apache/flink/flink-streaming-java_2.11/1.7.0/flink-streaming-java_2.11-1.7.0-sources.jar!/org/apache/flink/streaming/api/functions/source/SourceFunction.java" />
-    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/Spark/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-513" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/Spark/in/user1.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -918,13 +1021,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -973,10 +1069,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/Project (2).iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/study_atguigu/Study/JavaSuanfa/src/main/java/com/atguigu/queue/ArrayQueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/src/main/scala/com/youfan/offline/ALSTrainer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/youfanPortraitmain/youfananalySrv/youfananalySrv.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/Project.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/flume_interceptor/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/hivefunction/src/main/main18.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/hivefunction/src/main/java/com/youfan/udtf/EventJsonUDTF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="55" column="52" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/hivefunction/src/main/java/com/youfan/udf/BaseFieldUDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/src/main/java/com/youfan/appclient/AppActive_background.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/src/main/java/com/youfan/appclient/AppActive_foreground.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/src/main/java/com/youfan/appclient/AppAd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/src/main/java/com/youfan/appclient/AppComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/log_collector/src/main/java/com/youfan/appclient/AppStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1033,7 +1207,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>OfflineRecommender</last-edited>
+          <last-edited>bigdata_atgugui</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1058,7 +1232,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>maven-wrapper</last-edited>
+          <last-edited>Maven: com.esotericsoftware.kryo:kryo:2.24.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -12,7 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/Kafka.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/Kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/NetWork/NetWork.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/NetWork/NetWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/Project (1).iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/Project (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/Project.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/Project (1).iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/Project (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/Project (2).iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/Project (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/RecommendSystem.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/RecommendSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/AItem/Recommended-system/Recommended-system.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/Recommended-system/Recommended-system.iml" />
@@ -32,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-dw2es/dw-dw2es.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-dw2es/dw-dw2es.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-logger/dw-logger.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-logger/dw-logger.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-mock/dw-mock.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-mock/dw-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-pulisher/dw-publisher.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-pulisher/dw-publisher.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-realtime/dw-realtime.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/gmall1018-dw/dw-realtime/dw-realtime.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/flink/flink.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flink/flink.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/flume/flume.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/flume/flume.iml" />

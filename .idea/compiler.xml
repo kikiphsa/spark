@@ -16,6 +16,7 @@
         <module name="dw-dw2es" />
         <module name="dw-logger" />
         <module name="dw-mock" />
+        <module name="dw-publisher" />
         <module name="dw-realtime" />
         <module name="ETL" />
         <module name="flink" />
@@ -55,13 +56,14 @@
       <module name="bigdata" target="1.8" />
       <module name="bigdata_atgugui" target="1.8" />
       <module name="dataloader" target="1.8" />
-      <module name="dw-canal" target="1.8" />
-      <module name="dw-chart" target="1.8" />
+      <module name="dw-canal" target="1.6" />
+      <module name="dw-chart" target="1.6" />
       <module name="dw-common" target="1.8" />
-      <module name="dw-dw2es" target="1.8" />
-      <module name="dw-logger" target="1.8" />
-      <module name="dw-mock" target="1.8" />
-      <module name="dw-realtime" target="1.8" />
+      <module name="dw-dw2es" target="1.6" />
+      <module name="dw-logger" target="1.6" />
+      <module name="dw-mock" target="1.6" />
+      <module name="dw-publisher" target="1.8" />
+      <module name="dw-realtime" target="1.6" />
       <module name="ETL" target="1.8" />
       <module name="flink" target="1.8" />
       <module name="FlinkExample" target="1.8" />
