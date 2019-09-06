@@ -12,8 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/Kafka.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/hadoop/Kafka/Kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/NetWork/NetWork.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/UserBehaviorAnalysis/NetWork/NetWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/OfflineRecommender/OfflineRecommender.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/Project.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/Project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/Project (1).iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/Project (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/Project (1).iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/NumberPositions/Project (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/Project (2).iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/Project (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/RecommendSystem.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/RecommendSystem/RecommendSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/bigdata_atgugui/Project/AItem/Recommended-system/Recommended-system.iml" filepath="$PROJECT_DIR$/bigdata_atgugui/Project/AItem/Recommended-system/Recommended-system.iml" />

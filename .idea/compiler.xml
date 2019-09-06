@@ -41,7 +41,6 @@
         <module name="Scala_Arithmetic" />
         <module name="SecondBigFactory" />
         <module name="Spark" />
-        <module name="spark" />
         <module name="sparktrain" />
         <module name="statisticsRecommender" />
         <module name="study_atguigu" />
